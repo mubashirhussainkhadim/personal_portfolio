@@ -2,8 +2,10 @@ export const Bio = {
     name: "Mubashir Hussain",
     roles: [
       "Full Stack Developer",
-      "UI/UX Designer",
-      "Programmer",
+      "Laravel Developer",
+      "Php Developer",
+      "Angular Developer",
+       "Wordpress Developer",
     ],
     description:
       "As an experienced Full Stack Web Developer, I bring a strong skill set in Angular, Laravel, PHP, and WordPress development, honed through my work in both healthcare and IT sectors. With a focus on delivering seamless user experiences and optimizing website performance, I have successfully contributed to projects aimed at enhancing online presence and functionality. My expertise lies in developing and maintaining web applications, collaborating with teams to implement innovative solutions, and ensuring high standards of security and responsiveness. For further discussion or collaboration opportunities,",
