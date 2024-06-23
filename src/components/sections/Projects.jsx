@@ -131,7 +131,7 @@ const Projects = () => {
             active={toggle === "machine learning"}
             onClick={() => setToggle("machine learning")}
           >
-            MACHINE LEARNING
+            '
           </ToggleButton>
         </ToggleButtonGroup>
 
