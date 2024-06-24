@@ -8,7 +8,7 @@ export const Bio = {
        "Wordpress Developer",
     ],
     description:
-      "As an experienced Full Stack Web Developer, I bring a strong skill set in Angular, Laravel, PHP, and WordPress development, honed through my work in both healthcare and IT sectors. With a focus on delivering seamless user experiences and optimizing website performance, I have successfully contributed to projects aimed at enhancing online presence and functionality. My expertise lies in developing and maintaining web applications, collaborating with teams to implement innovative solutions, and ensuring high standards of security and responsiveness. For further discussion or collaboration opportunities,",
+      "Experienced Full Stack Web Developer specializing in Angular, Laravel, PHP, and WordPress. Proven track record in healthcare and IT sectors, optimizing performance and user experience. Expertise in web app development, security, and collaborative problem-solving. Let's discuss enhancing your online presence!",
     github: "https://github.com/mubashirhussainkhadim",
     resume: "https://drive.google.com/file/d/1QN1iGdhYaCg9C4zptkwawwF8N222gn3q/view",
     linkedin: "https://www.linkedin.com/in/mubashirhussainkhadim/",
