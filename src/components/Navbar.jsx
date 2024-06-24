@@ -171,14 +171,14 @@ const Navbar = () => {
                 color: theme.text_primary,
               }}
             >
-              Github Profile
+              Hire Me
             </GithubButton>
           </MobileMenu>
         )}
 
         <ButtonContainer>
           <GithubButton href={Bio.github} target="_Blank">
-            Github Profile
+              Hire Me
           </GithubButton>
         </ButtonContainer>
       </NavbarContainer>
