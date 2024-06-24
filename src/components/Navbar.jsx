@@ -164,7 +164,7 @@ const Navbar = () => {
               Education
             </NavLink>
             <GithubButton
-              href={Bio.github}
+              href="https://wa.link/k1olam"
               target="_Blank"
               style={{
                 background: theme.primary,
