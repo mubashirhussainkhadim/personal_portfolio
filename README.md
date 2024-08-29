@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# Mubashir Hussain - Full Stack Developer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About Me
 
-## Available Scripts
+Hi, I am Mubashir Hussain, an experienced Full Stack Web Developer specializing in Angular, Laravel, PHP, and WordPress. I have a proven track record in the healthcare and IT sectors, focusing on optimizing performance and user experience. My expertise spans web app development, security, and collaborative problem-solving. Let's discuss how I can help enhance your online presence!
 
-In the project directory, you can run:
+## Skills
 
-### `npm start`
+### Frontend
+- React Js
+- Redux
+- Next Js
+- Angular Js
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Material UI
+- Live Wire
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Backend
+- Node Js
+- Express Js
+- PHP
+- MySQL
+- Laravel
+- Firebase
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Others
+- Git
+- GitHub
+- Netlify
+- VS Code
+- Postman
+- Figma
 
-### `npm test`
+## Experience
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Backend Laravel Developer at Asian Solution
+**Real Estate Marketplace**  
+Developed a sophisticated Real Estate Marketplace to provide users with a seamless platform for buying, selling, and renting properties online.
 
-### `npm run build`
+### Backend PHP Developer at Asian Solution
+**WordPress SSO.ID Integration Plugin**  
+Developed a WordPress plugin for seamless integration with the SSO.ID authentication system, enabling single sign-on capabilities, managing user authentication, token exchange, and user creation/login. Implemented URL rewriting and custom query handling for callback integration and enhanced user experience with JavaScript-powered popup authentication.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Projects
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Real Estate Marketplace
+- **Role:** Backend Laravel Developer
+- **Description:** Developed a platform for users to buy, sell, and rent properties online.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[View Code](#)
 
-### `npm run eject`
+### WordPress SSO.ID Integration Plugin
+- **Role:** Backend PHP Developer
+- **Description:** Created a plugin for single sign-on capabilities with SSO.ID, including user authentication and token management.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[View Code](#)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Education
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+My educational journey has been a path of self-discovery and growth. Here are my educational details:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **[Your Degree]**, [Government College And University Faislabad] - [Dec 2021]
+- **Additional Certifications or Courses**
 
-## Learn More
+## Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Feel free to reach out to me for any questions or opportunities!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Email:** [mubashirhussainkhadim@gmail.com](mailto:mubashirhussainkhadim@gmail.com
+- **LinkedIn:** [mubashirhussainkhadim](https://linkedin.com/in/mubashirhussainkhadim)
 
-### Code Splitting
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+© 2024 Mubashir Hussain. All rights reserved.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
