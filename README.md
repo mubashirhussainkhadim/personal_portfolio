@@ -72,7 +72,7 @@ My educational journey has been a path of self-discovery and growth. Here are my
 
 Feel free to reach out to me for any questions or opportunities!
 
-- **Email:** [mubashirhussainkhadim@gmail.com](mailto:mubashirhussainkhadim@gmail.com
+- **Email:** [mubashirhussainkhadim@gmail.com](mailto:mubashirhussainkhadim@gmail.com)
 - **LinkedIn:** [mubashirhussainkhadim](https://linkedin.com/in/mubashirhussainkhadim)
 
 ## License
