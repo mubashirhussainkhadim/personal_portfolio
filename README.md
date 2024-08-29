@@ -62,7 +62,7 @@ Developed a WordPress plugin for seamless integration with the SSO.ID authentica
 
 My educational journey has been a path of self-discovery and growth. Here are my educational details:
 
-- **[Your Degree]**, [Government College And University Faislabad] - [Dec 2021]
+- **[Bs Computer Science]**, [Government College And University Faislabad] - [Dec 2021]
 - **Additional Certifications or Courses**
 
 ## Contact
