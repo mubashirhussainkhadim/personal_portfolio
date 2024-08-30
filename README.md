@@ -68,6 +68,73 @@ My educational journey has been a path of self-discovery and growth. Here are my
 - **[Bs Computer Science]**, [Government College And University Faislabad] - [Dec 2021]
 - **Additional Certifications or Courses**
 
+
+# My Projects
+
+## Personal-Portfolio
+[https://github.com/mubashirhussainkhadim/Personal-Portfolio](https://github.com/mubashirhussainkhadim/Personal-Portfolio)
+
+## Company-Portfolio
+[https://github.com/mubashirhussainkhadim/Company-Portfolio](https://github.com/mubashirhussainkhadim/Company-Portfolio)
+
+## DSA_In_Python
+[https://github.com/mubashirhussainkhadim/DSA_In_Python](https://github.com/mubashirhussainkhadim/DSA_In_Python)
+
+## Single-sign-on-wordpressplugin
+[https://github.com/mubashirhussainkhadim/Single-sign-on-wordpressplugin](https://github.com/mubashirhussainkhadim/Single-sign-on-wordpressplugin)
+
+## Portfolio
+[https://github.com/mubashirhussainkhadim/Portfolio](https://github.com/mubashirhussainkhadim/Portfolio)
+
+## crude-operation-in-angular
+[https://github.com/mubashirhussainkhadim/crude-operation-in-angular](https://github.com/mubashirhussainkhadim/crude-operation-in-angular)
+
+## demo
+[https://github.com/mubashirhussainkhadim/demo](https://github.com/mubashirhussainkhadim/demo)
+
+## Intership_Daily_tasks
+[https://github.com/mubashirhussainkhadim/Intership_Daily_tasks](https://github.com/mubashirhussainkhadim/Intership_Daily_tasks)
+
+## mubashirhussainkhadim
+[https://github.com/mubashirhussainkhadim/mubashirhussainkhadim](https://github.com/mubashirhussainkhadim/mubashirhussainkhadim)
+
+## myJourneyTowards_JavaserverPage
+[https://github.com/mubashirhussainkhadim/myJourneyTowards_JavaserverPage](https://github.com/mubashirhussainkhadim/myJourneyTowards_JavaserverPage)
+
+## asserts
+[https://github.com/mubashirhussainkhadim/asserts](https://github.com/mubashirhussainkhadim/asserts)
+
+## hardhat-lottery-smart-contract
+[https://github.com/mubashirhussainkhadim/hardhat-lottery-smart-contract](https://github.com/mubashirhussainkhadim/hardhat-lottery-smart-contract)
+
+## Hardhat-Fund-frontend
+[https://mubashirhussainkhadim.github.io/Hardhat-Fund-frontend/](https://mubashirhussainkhadim.github.io/Hardhat-Fund-frontend/)
+
+## html-fund-me-fcc
+[https://mubashirhussainkhadim.github.io/html-fund-me-fcc/](https://mubashirhussainkhadim.github.io/html-fund-me-fcc/)
+
+## Hardhat-Fund-me
+[https://github.com/mubashirhussainkhadim/Hardhat-Fund-me](https://github.com/mubashirhussainkhadim/Hardhat-Fund-me)
+
+## hardhat-sample-storage
+[https://github.com/mubashirhussainkhadim/hardhat-sample-storage](https://github.com/mubashirhussainkhadim/hardhat-sample-storage)
+
+## cryptokitties
+[https://github.com/mubashirhussainkhadim/cryptokitties](https://github.com/mubashirhussainkhadim/cryptokitties)
+
+## dex
+[https://github.com/mubashirhussainkhadim/dex](https://github.com/mubashirhussainkhadim/dex)
+
+## demo-bank-javascript
+[https://github.com/mubashirhussainkhadim/demo-bank-javascript](https://github.com/mubashirhussainkhadim/demo-bank-javascript)
+
+## dice-game.io
+[https://mubashirhussainkhadim.github.io/dice-game.io/](https://mubashirhussainkhadim.github.io/dice-game.io/)
+
+## secure-auction
+[https://github.com/mubashirhussainkhadim/secure-auction](https://github.com/mubashirhussainkhadim/secure-auction)
+
+
 ## Contact
 
 Feel free to reach out to me for any questions or opportunities!
