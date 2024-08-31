@@ -178,7 +178,7 @@ export const Bio = {
    
     {
       id: 2,
-      img: "https://scontent.flhe3-1.fna.fbcdn.net/v/t39.30808-1/443836055_1192676421887290_8764103776391632460_n.jpg?stp=dst-jpg_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=lxqgDzGw7l4Q7kNvgFauZYf&_nc_ht=scontent.flhe3-1.fna&oh=00_AYDTBsMfoFVL0CfCq_i7ufTcCqSnNi3dwhNlIxFB51pA2g&oe=667E1239",
+      img: "https://www.websiteaccess.co.uk/wp-content/uploads/2023/05/A4-1-1-150x150.png",
       role: "Fullstack Laravel Developer ",
       company: "Soft Access Group",
       date: "June 2024 -  Countinue",
