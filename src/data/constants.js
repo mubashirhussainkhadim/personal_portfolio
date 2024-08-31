@@ -217,7 +217,7 @@ export const Bio = {
       date: "Backend Laravel Developer at Asian Solution",
       description:
         "As a Backend Laravel Developer at Asian Solution, I played a pivotal role in the development of a sophisticated Real Estate Marketplace. This project aimed to provide users with a seamless platform to buy, sell, and rent properties online.",
-      image: ,
+      image: "",
       tags: ["Laravel", "PHP", "MySQL", "API Integration"],
       category: "web app",
       github: "https://github.com/mubashirhussainkhadim",
@@ -229,7 +229,7 @@ export const Bio = {
       date: "Backend PHP Developer at Asian Solution",
       description:
         "Developed a WordPress plugin for seamless integration with SSO.ID authentication system. Enabled single sign-on capabilities, managing user authentication, token exchange, and user creation/login. Configured intuitive settings page for easy API credential setup. Implemented URL rewriting and custom query handling for callback integration. Enhanced user experience and security with JavaScript-powered popup authentication. Managed activation hooks for smooth plugin installation and deactivation.",
-      image: ,
+      image: "",
       tags: ["WordPress", "PHP", "SSO", "API Integration"],
       category: "web app",
       github: "https://github.com/mubashirhussainkhadim",
