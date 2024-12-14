@@ -9,7 +9,7 @@ export const Bio = {
     ],
     description:
       "Experienced Full Stack Web Developer specializing in Angular, Laravel, PHP, and WordPress. Proven track record in healthcare and IT sectors, optimizing performance and user experience. Expertise in web app development, security, and collaborative problem-solving. Let's discuss enhancing your online presence!",
-    github: "https://github.com/mubashirhussainkhadim",
+    github: "https://www.fiverr.com/mubashirkhadim?up_rollout=true",
     resume: "https://www.canva.com/design/DAF-qZgy3mY/XEuNBc6ofpb6rdcKRLfkTQ/edit?utm_content=DAF-qZgy3mY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
     linkedin: "https://www.linkedin.com/in/mubashirhussainkhadim/",
   
