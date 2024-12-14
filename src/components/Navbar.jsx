@@ -178,7 +178,7 @@ const Navbar = () => {
 
         <ButtonContainer>
           <GithubButton href={Bio.github} target="_Blank">
-              Hire Me
+              Fiverr
           </GithubButton>
         </ButtonContainer>
       </NavbarContainer>
